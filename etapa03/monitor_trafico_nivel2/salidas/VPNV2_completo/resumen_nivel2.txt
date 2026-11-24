@@ -1,0 +1,38 @@
+RESUMEN - ANALITICA DE TRANSITO (Nivel 2)
+============================================================
+Sesión D22N1657A1704: 2026-11-22 16:57:00 -> 17:03:59 (7 min) | hora: --hora-inicio
+Sesión D22N1722A1729: 2026-11-22 17:22:00 -> 17:28:59 (7 min) | hora: --hora-inicio
+Sesión D22N1730A1737: 2026-11-22 17:30:00 -> 17:36:59 (7 min) | hora: --hora-inicio
+Sesión D22N1738A1745: 2026-11-22 17:38:00 -> 17:44:59 (7 min) | hora: --hora-inicio
+Sesión D22N1746A1753: 2026-11-22 17:46:00 -> 17:52:59 (7 min) | hora: --hora-inicio
+Sesión D22N1806A1813: 2026-11-22 18:06:00 -> 18:12:59 (7 min) | hora: --hora-inicio
+Sesión D22N1815A1822: 2026-11-22 18:15:00 -> 18:21:59 (7 min) | hora: --hora-inicio
+Sesión D22N1826A1833: 2026-11-22 18:26:00 -> 18:32:59 (7 min) | hora: --hora-inicio
+
+Vehículos contados (cruzaron la línea de conteo): 978
+  auto: 882 | moto: 14 | bus: 9 | camion: 73
+
+CARRILES (4, definidos a mano con definir_carriles.py; carril 1 = el de más arriba o más a la izquierda en la imagen)
+  Carril 1 ←    166 veh   17.0%  vel. media 28.5 km/h
+  Carril 2 ←    439 veh   44.9%  vel. media 35.4 km/h   <-- MÁS USADO
+  Carril 3 →    133 veh   13.6%  vel. media 45.3 km/h
+  Carril 4 →    240 veh   24.5%  vel. media 50.3 km/h
+
+VEHÍCULOS POR HORA
+  2026-11-22 16:00     58 veh  (grabado 3 min -> ≈ 1160 veh/h)
+  2026-11-22 17:00    574 veh  (grabado 32 min -> ≈ 1076 veh/h)
+  2026-11-22 18:00    346 veh  (grabado 21 min -> ≈ 989 veh/h)
+  Hora con más vehículos: 16:00-17:00 (comparando el flujo por hora, porque cada hora puede tener distinto tiempo grabado)
+
+VEHÍCULOS POR CLIP
+  16:57-17:03    123 veh  (≈ 1054 veh/h)
+  17:22-17:28    136 veh  (≈ 1166 veh/h)
+  17:30-17:36    134 veh  (≈ 1149 veh/h)
+  17:38-17:44    118 veh  (≈ 1012 veh/h)
+  17:46-17:52    121 veh  (≈ 1037 veh/h)
+  18:06-18:12    107 veh  (≈ 917 veh/h)
+  18:15-18:21    108 veh  (≈ 926 veh/h)
+  18:26-18:32    131 veh  (≈ 1123 veh/h)
+  Clip con más tránsito: 17:22-17:28
+
+Archivos: mapa_calor.png, vehiculos_por_hora.png, vehiculos_contados.csv, carriles.csv

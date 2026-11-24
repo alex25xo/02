@@ -1,0 +1,5 @@
+﻿carril,sentido,vehiculos,porcentaje,vel_media_kmh,d_centro_m
+1,←,19,17.6,28.4,10.49
+2,←,52,48.1,30.9,8.05
+3,→,10,9.3,51.9,5.30
+4,→,27,25.0,50.1,1.62
