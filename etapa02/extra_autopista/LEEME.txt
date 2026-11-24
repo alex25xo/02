@@ -1,0 +1,18 @@
+CASO AVANZADO: tracking con la camara EN MOVIMIENTO en un video real de autopista
+==================================================================================
+Video: project_video.mp4 (Udacity, CarND-Advanced-Lane-Lines, licencia MIT), camara en el parabrisas a ~100 km/h.
+Calibracion de la camara: calib_udacity.json (17 fotos de tablero, error 1.0 px).
+
+Orden de ejecucion (desde esta carpeta, con el entorno virtual activado):
+  1) python vo_carretera.py        -> pasada 1: flujo optico y geometria de la camara (pasada1.json)
+  2) python pasada3.py             -> odometria visual final: trayectoria y velocidad de nuestro auto (resultado.json)
+  3) python tracking_absoluto.py   -> YOLO + BoT-SORT + VO: posicion de cada auto en el mundo y su velocidad real
+                                      (trayectorias_autopista.csv, resumen_vehiculos.json)
+  4) python render_tracking.py     -> video con la vista superior (requiere ffmpeg instalado)
+
+Los resultados ya calculados vienen incluidos (resultado.json, trayectorias_autopista.csv, resumen_vehiculos.json),
+asi que se puede ejecutar directamente el paso 3 o el 4. El proceso completo tarda varios minutos en CPU.
+
+Idea:  punto de apoyo del auto -> rayo que corta el plano de la via (altura de la camara 1.23 m) -> X_camara
+       X_mundo = C_k + R_k * X_camara  (pose de la camara estimada por la odometria visual)
+       velocidad real = derivada de X_mundo ; velocidad relativa (sin VO) = derivada de X_camara

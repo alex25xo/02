@@ -1,0 +1,32 @@
+[
+ {
+  "id": 7,
+  "desde_s": 4.7,
+  "hasta_s": 32.0,
+  "muestras": 684,
+  "distancia_media_m": 24.5,
+  "v_relativa_kmh": 2.8,
+  "v_real_kmh": 104.1,
+  "v_nuestro_auto_kmh": 101.8
+ },
+ {
+  "id": 173,
+  "desde_s": 27.5,
+  "hasta_s": 50.4,
+  "muestras": 563,
+  "distancia_media_m": 19.2,
+  "v_relativa_kmh": 3.7,
+  "v_real_kmh": 108.8,
+  "v_nuestro_auto_kmh": 108.0
+ },
+ {
+  "id": 185,
+  "desde_s": 34.0,
+  "hasta_s": 48.7,
+  "muestras": 368,
+  "distancia_media_m": 16.9,
+  "v_relativa_kmh": -3.6,
+  "v_real_kmh": 106.6,
+  "v_nuestro_auto_kmh": 112.3
+ }
+]
