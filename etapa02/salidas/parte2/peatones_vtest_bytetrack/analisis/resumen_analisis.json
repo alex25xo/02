@@ -1,0 +1,17 @@
+{
+  "objetos_analizados": 31,
+  "duracion_media_s": 15.07,
+  "longitud_media_px": 644.9,
+  "vel_media_px_s": 46.2,
+  "direccion_mas_comun": "izquierda",
+  "ruta_mas_comun": "B3->B3",
+  "anomalias": {
+    "5": "permanencia / merodeo",
+    "6": "permanencia / merodeo",
+    "13": "permanencia / merodeo",
+    "46": "permanencia / merodeo",
+    "53": "mucho mas rapido que el resto",
+    "19": "trayectoria poco comun",
+    "29": "trayectoria poco comun"
+  }
+}

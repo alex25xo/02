@@ -1,0 +1,32 @@
+id,clase,frames,t_inicio_s,t_fin_s,duracion_s,longitud_px,desplazamiento_neto_px,rectitud,vel_media_px_s,rumbo_deg,direccion,zona_entrada,zona_salida,cruzo_linea,flujo,anomalia
+1,person,33,0.0,3.3,3.3,132.4,130.5,0.99,40.1,19.0,derecha,B2,B2,B->A,4,
+2,person,24,0.0,2.3,2.3,221.4,221.3,1.0,96.3,177.9,izquierda,B3,B2,,2,
+3,person,135,0.0,15.3,15.3,222.3,115.8,0.52,14.5,203.2,abajo-izq,B3,B2,A->B,2,
+5,person,362,1.1,37.4,36.3,936.7,34.9,0.04,25.8,85.9,arriba,B3,B3,,,permanencia / merodeo
+6,person,343,1.8,36.4,34.6,835.2,36.1,0.04,24.1,83.6,arriba,B3,B3,,,permanencia / merodeo
+9,person,17,2.4,6.3,3.9,19.5,8.9,0.45,5.0,316.7,abajo-der,B2,B2,,,
+13,person,347,4.0,39.4,35.4,1626.5,61.4,0.04,45.9,88.9,arriba,B3,B3,A->B,,permanencia / merodeo
+14,person,11,4.0,5.0,1.0,22.5,15.8,0.7,22.5,88.6,arriba,B2,B2,,,
+17,person,82,6.1,14.8,8.7,588.8,393.4,0.67,67.7,349.7,derecha,B2,B3,B->A,4,
+19,person,95,7.9,17.3,9.4,280.4,279.8,1.0,29.8,191.7,izquierda,A2,A1,,1,trayectoria poco comun
+21,person,90,11.5,20.9,9.4,629.4,60.3,0.1,67.0,275.5,abajo,B3,B3,,,
+23,person,155,13.2,28.6,15.4,759.9,751.7,0.99,49.3,172.5,izquierda,B3,B1,A->B,3,
+25,person,219,14.8,40.3,25.5,1125.3,174.8,0.16,44.1,23.8,arriba-der,B2,A3,A->B,2,
+29,person,63,15.8,22.0,6.2,375.2,375.1,1.0,60.5,174.4,izquierda,B2,A1,A->B,1,trayectoria poco comun
+35,person,129,21.9,35.5,13.6,788.5,356.8,0.45,58.0,168.4,izquierda,B3,B2,A->B,3,
+37,person,176,22.8,40.3,17.5,981.6,23.2,0.02,56.1,204.6,abajo-izq,B3,B3,A->B,,
+44,person,162,35.7,52.1,16.4,663.6,398.1,0.6,40.5,332.8,abajo-der,B2,C3,A->B,4,
+46,person,352,40.5,76.4,35.9,979.7,141.7,0.14,27.3,200.3,izquierda,A3,B2,,2,permanencia / merodeo
+47,person,152,42.1,57.9,15.8,762.8,754.8,0.99,48.3,170.6,izquierda,B3,B1,A->B,3,
+49,person,38,46.2,49.9,3.7,219.2,208.1,0.95,59.2,147.6,arriba-izq,B3,B3,,2,
+51,person,275,50.1,79.4,29.3,1159.1,85.2,0.07,39.6,4.9,derecha,B3,B3,A->B,,
+53,person,58,50.4,56.1,5.7,586.1,562.4,0.96,102.8,169.9,izquierda,C3,C1,,3,mucho mas rapido que el resto
+54,person,112,50.4,61.6,11.2,396.7,6.8,0.02,35.4,293.9,abajo-der,B3,B3,,,
+59,person,262,53.1,79.4,26.3,1214.0,259.1,0.21,46.2,86.0,arriba,C2,B2,B->A,3,
+61,person,127,56.3,69.2,12.9,754.2,322.5,0.43,58.5,39.6,arriba-der,C1,A2,B->A,4,
+63,person,213,57.1,79.4,22.3,1096.0,120.1,0.11,49.1,193.0,izquierda,B3,B3,A->B,2,
+64,person,180,60.6,79.4,18.8,749.0,655.2,0.87,39.8,3.5,derecha,B1,A3,B->A,4,
+68,person,88,65.6,74.4,8.8,751.1,750.1,1.0,85.3,167.4,izquierda,B3,B1,A->B,3,
+69,person,90,69.1,79.4,10.3,537.1,532.8,0.99,52.1,171.5,izquierda,B3,B1,A->B,3,
+71,person,92,69.9,79.4,9.5,422.6,155.3,0.37,44.5,286.9,abajo,A2,B2,A->B,4,
+77,person,24,77.0,79.4,2.4,156.6,154.9,0.99,65.2,179.4,izquierda,B2,B1,A->B,3,

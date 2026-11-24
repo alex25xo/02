@@ -1,0 +1,27 @@
+{
+  "fuente": "datos/peatones_vtest.avi",
+  "tracker": "botsort",
+  "frames": 795,
+  "fps": 10.0,
+  "ids_distintos": 32,
+  "filas_trayectorias": 4522,
+  "linea_px": [
+    [
+      384.0,
+      172.79999999999998
+    ],
+    [
+      384.0,
+      449.28000000000003
+    ]
+  ],
+  "conteo_total": 20,
+  "A->B": 15,
+  "B->A": 5,
+  "por_clase": {
+    "person": {
+      "A->B": 15,
+      "B->A": 5
+    }
+  }
+}

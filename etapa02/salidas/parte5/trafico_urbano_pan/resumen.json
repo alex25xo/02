@@ -1,0 +1,15 @@
+{
+  "fuente": "datos/trafico_urbano_pan.mp4",
+  "frames": 1190,
+  "conteo_sin_vo": 36,
+  "conteo_con_vo": 36,
+  "desplazamiento_camara_px": [
+    283.1,
+    206.6
+  ],
+  "error_vel_sin_vo": 12.6,
+  "error_vel_con_vo": 2.78,
+  "unidad": "km/h",
+  "error_vo_px_medio": 17.31,
+  "error_vo_px_final": 45.17
+}

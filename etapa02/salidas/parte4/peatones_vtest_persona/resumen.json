@@ -1,0 +1,45 @@
+{
+  "fuente": "datos/peatones_vtest.avi",
+  "calibracion": "persona",
+  "unidad": "m/s",
+  "objetos_con_velocidad": 30,
+  "vel_mediana_global": 0.9,
+  "zonas": [
+    {
+      "zona": "A1",
+      "objetos_distintos": 13,
+      "tiempo_total_s": 63.5,
+      "vel_media": 1.04
+    },
+    {
+      "zona": "A2",
+      "objetos_distintos": 30,
+      "tiempo_total_s": 111.5,
+      "vel_media": 1.11
+    },
+    {
+      "zona": "A3",
+      "objetos_distintos": 13,
+      "tiempo_total_s": 97.6,
+      "vel_media": 1.06
+    },
+    {
+      "zona": "B1",
+      "objetos_distintos": 4,
+      "tiempo_total_s": 15.7,
+      "vel_media": 0.88
+    },
+    {
+      "zona": "B2",
+      "objetos_distintos": 18,
+      "tiempo_total_s": 55.0,
+      "vel_media": 0.86
+    },
+    {
+      "zona": "B3",
+      "objetos_distintos": 21,
+      "tiempo_total_s": 108.4,
+      "vel_media": 0.84
+    }
+  ]
+}

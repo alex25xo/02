@@ -1,0 +1,35 @@
+{
+  "fuente": "datos/trafico_urbano.mp4",
+  "tracker": "bytetrack",
+  "frames": 1190,
+  "fps": 25.0,
+  "ids_distintos": 131,
+  "filas_trayectorias": 10096,
+  "linea_px": [
+    [
+      0.0,
+      216.0
+    ],
+    [
+      640.0,
+      216.0
+    ]
+  ],
+  "conteo_total": 37,
+  "A->B": 1,
+  "B->A": 36,
+  "por_clase": {
+    "car": {
+      "A->B": 1,
+      "B->A": 30
+    },
+    "bus": {
+      "A->B": 0,
+      "B->A": 3
+    },
+    "truck": {
+      "A->B": 0,
+      "B->A": 3
+    }
+  }
+}

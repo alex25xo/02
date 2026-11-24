@@ -1,0 +1,15 @@
+{
+  "objetos_analizados": 60,
+  "duracion_media_s": 6.82,
+  "longitud_media_px": 210.6,
+  "vel_media_px_s": 33.6,
+  "direccion_mas_comun": "arriba",
+  "ruta_mas_comun": "C2->A2",
+  "anomalias": {
+    "75": "mucho mas rapido que el resto",
+    "116": "mucho mas rapido que el resto",
+    "117": "mucho mas rapido que el resto",
+    "160": "mucho mas rapido que el resto",
+    "174": "mucho mas rapido que el resto"
+  }
+}
