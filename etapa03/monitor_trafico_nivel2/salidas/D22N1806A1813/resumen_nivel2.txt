@@ -1,0 +1,18 @@
+RESUMEN - ANALITICA DE TRANSITO (Nivel 2)
+============================================================
+Sesión D22N1806A1813: 2026-11-22 18:06:00 -> 18:12:59 (7 min) | hora: --hora-inicio
+
+Vehículos contados (cruzaron la línea de conteo): 107
+  auto: 96 | bus: 1 | camion: 10
+
+CARRILES (4, definidos a mano con definir_carriles.py; carril 1 = el de más arriba o más a la izquierda en la imagen)
+  Carril 1 ←     15 veh   14.0%  vel. media 24.7 km/h
+  Carril 2 ←     52 veh   48.6%  vel. media 34.3 km/h   <-- MÁS USADO
+  Carril 3 →     16 veh   15.0%  vel. media 40.7 km/h
+  Carril 4 →     24 veh   22.4%  vel. media 49.0 km/h
+
+VEHÍCULOS POR HORA
+  2026-11-22 18:00    107 veh  (grabado 7 min -> ≈ 917 veh/h)
+  Hora con más vehículos: 18:00-19:00 (comparando el flujo por hora, porque cada hora puede tener distinto tiempo grabado)
+
+Archivos: mapa_calor.png, vehiculos_por_hora.png, vehiculos_contados.csv, carriles.csv
