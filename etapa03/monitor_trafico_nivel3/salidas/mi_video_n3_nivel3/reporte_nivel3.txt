@@ -1,0 +1,7 @@
+RESUMEN - ODOMETRIA VISUAL (Nivel 3)
+================================================================
+Video: mi_video_n3.mp4
+Cuadros: 2589 | odometria OK en 100% | inliers medios 124
+Recorrido de la camara: 93.50 m en 86.3 s -> velocidad media 3.9 km/h
+Desplazamiento neto (inicio -> fin): 63.15 m | giro final +8.7 grados
+El suelo 'se movia' (sin compensar) a 3.0 km/h; tras compensar: 0.8 km/h (ruido)
