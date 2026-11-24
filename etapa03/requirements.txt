@@ -1,0 +1,5 @@
+ultralytics>=8.3.0      # YOLO11 / YOLO26 + trackers ByteTrack y BoT-SORT
+opencv-python>=4.8      # NO instalar a la vez opencv-python-headless (rompe las ventanas)
+numpy>=1.24
+lap>=0.5.12             # asignación lineal que usa ByteTrack
+pytest>=7               # opcional: para correr las pruebas
