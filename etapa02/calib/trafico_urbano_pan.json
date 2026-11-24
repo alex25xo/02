@@ -1,0 +1,40 @@
+{
+  "tipo": "homografia",
+  "puntos_imagen": [
+    [
+      127.63,
+      333.2
+    ],
+    [
+      495.68,
+      331.81
+    ],
+    [
+      192.9,
+      116.53
+    ],
+    [
+      401.93,
+      119.31
+    ]
+  ],
+  "puntos_mundo_m": [
+    [
+      0,
+      0
+    ],
+    [
+      7.0,
+      0
+    ],
+    [
+      0,
+      12.0
+    ],
+    [
+      7.0,
+      12.0
+    ]
+  ],
+  "nota": "Calibración re-proyectada al frame 0 del video con movimiento (modo rotación)."
+}

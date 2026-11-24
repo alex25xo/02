@@ -1,0 +1,40 @@
+{
+  "tipo": "homografia",
+  "puntos_imagen": [
+    [
+      182.5,
+      317.0
+    ],
+    [
+      447.5,
+      316.0
+    ],
+    [
+      229.5,
+      161.0
+    ],
+    [
+      380.0,
+      163.0
+    ]
+  ],
+  "puntos_mundo_m": [
+    [
+      0,
+      0
+    ],
+    [
+      7.0,
+      0
+    ],
+    [
+      0,
+      12.0
+    ],
+    [
+      7.0,
+      12.0
+    ]
+  ],
+  "nota": "Video sin ubicación conocida: la escala se obtuvo de la señalización. Línea discontinua urbana (2 m pintado + 4 m espacio = periodo 6 m) y carril de 3.5 m. Puntos = extremo inferior de los trazos de las líneas izquierda (A) y derecha (C) de 2 carriles; dos periodos (12 m). Con una cámara propia: medir en Google Maps."
+}
